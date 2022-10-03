@@ -1,0 +1,13 @@
+share/
+pyvenv.cfg
+lib64
+lib/
+lib64/
+.install.sh.swp
+include/
+bin/
+test_data/
+.gosac.py.swp
+geckodriver*
+*.swp
+*.csv
